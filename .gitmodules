@@ -1,0 +1,4 @@
+[submodule "xmarts/xma-connector"]
+	path = xmarts/xma-connector
+	url = git@github.com:xmarts/xma-connector.git
+	branch = 15.0
